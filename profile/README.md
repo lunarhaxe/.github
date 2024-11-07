@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/146598504" alt="zina.hx logo" width="24" /> Zina
+# <img src="https://raw.githubusercontent.com/zina-framework/.github/refs/heads/main/profile/zina_no_bg_shadowless.png" alt="zina.hx logo" width="24" /> Zina
 Zina is a small 2D game framework designed to have a simple, yet flexible API. Think of [LÖVE](https://love2d.org/), but built in a Haxe environment!
 
 # ❔ Where do I put issues?
